@@ -8,7 +8,7 @@ const initialState = [
         imgURL: html,
         buttonContent: "HTML",
         code: `<div>
-      <h1>Éditeur de code avec React</h1>
+      <h1>Éditeur de code en ligne avec React</h1>
       <p>Codez directement sur votre navigateur.</p>
 </div>
       `
